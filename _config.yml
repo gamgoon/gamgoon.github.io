@@ -1,6 +1,6 @@
-name: Solar Theme
-url: http://example.org
-description: A stylish blog using the Solarized color palette
+name: Gamgoon's Note
+url: https://gamgoon.github.io
+description: keep learning...
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
