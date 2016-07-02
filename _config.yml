@@ -1,9 +1,22 @@
+<<<<<<< HEAD
 name: Solar Theme
 url: http://example.org
 description: A stylish blog using the Solarized color palette
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
+=======
+# Permalinks
+#
+
+# Setup
+title:               Lanyon
+tagline:             'A Jekyll theme'
+description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:                 http://lanyon.getpoole.com
+baseurl:             'testxxx'
+paginate:            5
+>>>>>>> fb89f8aba8bdb92e5579223062eeb1b8bbef5569
 
 gems: [jekyll-paginate]
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
