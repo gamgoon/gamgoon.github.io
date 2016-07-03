@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gamgoon&#39;s Note</title>
+    <description>keep learning...</description>
+    <link>https://gamgoon.github.io/</link>
+    <atom:link href="https://gamgoon.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 03 Jul 2016 10:10:50 +0900</pubDate>
+    <lastBuildDate>Sun, 03 Jul 2016 10:10:50 +0900</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Hello World!</title>
+        <description>&lt;p&gt;첫 글을 쓰기가 이렇게 어려울 줄이야. 
+이 글도 제목 처럼 “Hello World!” 일뿐이지만, 이렇게라도 시작을 하지 않으면 끝내 한자도 못쓸 것 같아서 용기를 낸다.&lt;/p&gt;
+
+&lt;p&gt;이 곳은 읽은 책이나, 학습한 내용 등을 정리하는 용도가 될 것 같다. 물론 주제는 대부분 프로그래밍 관련으로 채우고 싶다. 현재도 에버노트에 아주 가볍게 여러가지 기록을 남기고는 있지만, 정리된 글들 보다는 순간 순간 알게된 내용이나 다듬어 지지 않은 생각의 덩어리들을 기록하는 정도였다. 그렇다보니 항상 정리의 시간이 필요하다고 느꼈었는데, 블로깅이 그 역할을 해 주리라 기대해 본다.&lt;/p&gt;
+
+&lt;p&gt;나이에 비해 짧은 경력 탓에 기초적인 내용부터 하나씩 정리를 해나가려 한다. 그러니 누군가에게 알려주는(보여주는) 형식 보다는 개인적인 기록의 관점으로 쓸 예정이다.&lt;/p&gt;
+
+&lt;p&gt;Keep learning!!&lt;/p&gt;
+</description>
+        <pubDate>Sat, 02 Jul 2016 00:00:00 +0900</pubDate>
+        <link>https://gamgoon.github.io/2016/07/02/hello-world/</link>
+        <guid isPermaLink="true">https://gamgoon.github.io/2016/07/02/hello-world/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
