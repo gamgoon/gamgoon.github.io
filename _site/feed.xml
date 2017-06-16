@@ -2,13 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>gamgoon</title>
-    <description>리얼리스트가 되자. 그러나 가슴 속에는 불가능한 꿈을 가지자. - 체게바라
+    <description>리얼리스트가 되자. 그러나 가슴 속에는 불가능한 꿈을 가지자.
 </description>
     <link>http://blog.gamgoon.xyz/</link>
     <atom:link href="http://blog.gamgoon.xyz/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 17 Jun 2017 02:35:34 +0900</pubDate>
-    <lastBuildDate>Sat, 17 Jun 2017 02:35:34 +0900</lastBuildDate>
+    <pubDate>Sat, 17 Jun 2017 03:18:17 +0900</pubDate>
+    <lastBuildDate>Sat, 17 Jun 2017 03:18:17 +0900</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>시간낭비</title>
+        <description>&lt;p&gt;본격 블로깅을 시작하겠다고 다짐하고, 한다는게 결과적으로 테마 변경.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 17 Jun 2017 00:00:00 +0900</pubDate>
+        <link>http://blog.gamgoon.xyz/memo/2017/06/17/nothing.html</link>
+        <guid isPermaLink="true">http://blog.gamgoon.xyz/memo/2017/06/17/nothing.html</guid>
+        
+        
+        <category>memo</category>
+        
+      </item>
     
       <item>
         <title>누구나 쉽게 스칼라 + 플레이</title>
