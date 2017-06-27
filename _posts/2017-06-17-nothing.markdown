@@ -2,5 +2,6 @@
 title: 시간낭비
 layout: post
 categories: memo
+author: Gamgoon
 ---
 본격 블로깅을 시작하겠다고 다짐하고, 한다는게 결과적으로 테마 변경.

@@ -2,6 +2,7 @@
 title: 누구나 쉽게 스칼라 + 플레이
 layout: post
 categories: book
+author: Gamgoon
 ---
 `이번 책리뷰는 한빛미디어에서 제공하는 도서를 이용하여 리뷰를 진행하였습니다.`
 

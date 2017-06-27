@@ -2,6 +2,8 @@
 title: 인공지능과 딥러닝
 layout: post
 categories: book
+author: Gamgoon
+cover: http://cfile22.uf.tistory.com/image/244B0647577C890E028537
 ---
 텐서플로우에 대한 글들이 커뮤니티에 자주 올라 올 즈음, 마침 유투브를 통해 유명한 [강의](https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)가 시작되었다. 이건 놓치면 안되겠다 싶어 하나씩 보기 시작했는데, 짧은 수식이 등장하는 순간 부터 머리 속이 멍해졌고. 수학공부를 먼저 해야겠다는 생각을 하고 접었던 기억이 난다. 하지만 언제가 꼭 도전해보겠다는 다짐을 했지만, 여전히 바쁘다는 핑계로 잊고 있었다.
 

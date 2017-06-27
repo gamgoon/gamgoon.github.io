@@ -2,6 +2,7 @@
 title: Hello World!
 layout: post
 categories: memo
+author: Gamgoon
 ---
 첫 글을 쓰기가 이렇게 어려울 줄이야.
 이 글도 제목 처럼 "Hello World!" 일뿐이지만, 이렇게라도 시작을 하지 않으면 끝내 한자도 못쓸 것 같아서 용기를 낸다.
