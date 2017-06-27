@@ -2,6 +2,7 @@
 title: 인공지능과 딥러닝
 layout: post
 categories: book
+category: book
 author: Gamgoon
 cover: http://cfile22.uf.tistory.com/image/244B0647577C890E028537
 ---
