@@ -6,13 +6,13 @@
 </description>
     <link>https://gamgoon.github.io/</link>
     <atom:link href="https://gamgoon.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 27 Nov 2017 02:44:00 +0900</pubDate>
-    <lastBuildDate>Mon, 27 Nov 2017 02:44:00 +0900</lastBuildDate>
+    <pubDate>Mon, 27 Nov 2017 02:50:04 +0900</pubDate>
+    <lastBuildDate>Mon, 27 Nov 2017 02:50:04 +0900</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
         <title>처음 배우는 머신러닝</title>
-        <description>&lt;p&gt;“처음…”, “… 첫걸음” 시리즈의 책들을 다 보진 못했지만, 근래 본 책은 다소 기대에 못 미쳤다. 그런데 &lt;a href=&quot;http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=118119875&quot;&gt;이 책&lt;/a&gt;을 리뷰 서적 중 하나로 선택한 이유는 &lt;a href=&quot;http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=76777785&quot;&gt;‘헬로 데이터 과학’&lt;/a&gt;의 저자이며, &lt;a href=&quot;http://www.podbbang.com/ch/15233&quot;&gt;‘데이터 지능’&lt;/a&gt; 팟케스트도 진행하고 계신 &lt;a href=&quot;http://www.hellodatascience.com/&quot;&gt;김진영&lt;/a&gt;님의 추천 때문이다. (그런데 어디서 추천했는지 찾을 수가 없다. 혹은 다른 책을 추천했는지도 모르겠으나… 이 책에 앞부분에 나오는 첫번째 추천글이 김진영님의 글이니 맞을꺼라 생각한다.)&lt;/p&gt;
+        <description>&lt;p&gt;“처음…”, “… 첫걸음” 시리즈의 책들을 다 보진 못했지만, 근래 본 책은 다소 기대에 못 미쳤다. 그런데 &lt;a href=&quot;http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=118119875&quot;&gt;이 책&lt;/a&gt;을 리뷰 서적 중 하나로 선택한 이유는 &lt;a href=&quot;http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=76777785&quot;&gt;‘헬로 데이터 과학’&lt;/a&gt;의 저자이며, &lt;a href=&quot;http://www.podbbang.com/ch/15233&quot;&gt;‘데이터 지능’&lt;/a&gt; 팟케스트도 진행하고 계신 &lt;a href=&quot;http://www.hellodatascience.com/&quot;&gt;김진영&lt;/a&gt;님의 추천 때문이다. (그런데 어디서 추천했는지 찾을 수가 없다. - 어떤 글이었는지, 팟케스트에서 였는지 -  혹은 다른 책을 추천했는지도 모르겠으나… 이 책에 앞부분에 나오는 첫번째 추천글이 김진영님의 글이니 맞을꺼라 생각한다.)&lt;/p&gt;
 
 &lt;p&gt;딥러닝의 인기를 실감하면서 개발자로서 이 현상을 어떻게 받아들여야 하는지 아직 확신이 없다. 데이터 과학자와 개발자라는 영역을 정확히 구분하긴 어렵지만, 분명 서로의 직업군을 형성하고 있는 것은 사실이다. 그런데 이게 애매해 지고 있다. 딥러닝의 발전과 함께 비전문가도 쉽게 딥러닝(또는 머신러닝)을 사용하는 시대가 곧 올꺼라고들 하는데, 개발자의 필수 기술로 요구될 것은 너무 자연스럽기 때문이다. 특히 백앤드 개발자에게는 더욱 그렇지 않을까…&lt;/p&gt;
 
