@@ -3,7 +3,7 @@ title: 처음 배우는 머신러닝
 layout: post
 categories: book
 author: Gamgoon
-cover: https://farm5.staticflickr.com/4539/24786605748_9fba3b4e0c_k.jpg
+cover: https://farm5.staticflickr.com/4576/37780138875_fcc18013db_k.jpg
 ---
 "처음...", "... 첫걸음" 시리즈의 책들을 다 보진 못했지만, 근래 본 책은 다소 기대에 못 미쳤다. 그런데 [이 책](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=118119875)을 리뷰 서적 중 하나로 선택한 이유는 ['헬로 데이터 과학'](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=76777785)의 저자이며, ['데이터 지능'](http://www.podbbang.com/ch/15233) 팟케스트도 진행하고 계신 [김진영](http://www.hellodatascience.com/)님의 추천 때문이다. (그런데 어디서 추천했는지 찾을 수가 없다. - 어떤 글이었는지, 팟케스트에서 였는지 -  혹은 다른 책을 추천했는지도 모르겠으나... 이 책에 앞부분에 나오는 첫번째 추천글이 김진영님의 글이니 맞을꺼라 생각한다.)
 
