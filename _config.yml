@@ -19,7 +19,7 @@ description: >
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://gamgoon.github.io" # the base hostname & protocol for your site
 cover: "/assets/IMG_5919.jpg"
 logo: "/assets/logo.png"
