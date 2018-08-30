@@ -5,14 +5,15 @@ categories: book
 author: Gamgoon
 cover: https://farm5.staticflickr.com/4716/25373610567_fa7517f6bc_k.jpg
 ---
-# 러닝 HTTP/2 (Learning HTTP/2)
+
 HTTP 가 없는 웹을 생각할 수 있을까? 하지만 웹 어플리케이션을 개발하면서 HTTP 를 심각하게 고민하지는 않는다… 뭐랄까 그냥 당연히 있어야할 **공기** 같은 것이랄까?
 
 그도 그럴것이 프로토콜 레벨의 구현은 이미 프레임워크나 라이브러리에서 다 해주고 있으니, 프로토콜 스펙 문서를 정독해가면서 개발하지는 않는다. 하지만 시간이 지나면서  HTTP 에 대해 제대로 몰라서 생기는 문제들이 생기고 자연스럽게 [HTTP 완벽 가이드](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=49731592) 요런 책도 읽어보게 된다. 	
 
 HTTP/2 에 대한 글이나 기사는 봤지만, 개인적인 관심사의 우선순위나 낮다보니 거의 아는게 없었는데, 이 책을 읽을 기회가 생겼다.
 
-우선 이책을 장점은 
+우선 이책을 장점은
+
 1. 200 페이지도 되지 않는 얇은 책이다. (참고로 앞서 언급한 [HTTP 완벽 가이드](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=49731592)  는 700 페이지가 넘는다.) 
 2. HTTP2 의 새로운 기능만 단순히 설명하는 책이 아니다.
 3. 관련 레퍼런스를 많이 소개해준다.
@@ -38,6 +39,7 @@ HTTP/2 에 대한 글이나 기사는 봤지만, 개인적인 관심사의 우�
 ![책표지](https://farm5.staticflickr.com/4716/25373610567_fa7517f6bc_k.jpg)
 
 참고
+
 * [RFC 7540 (http://httpwg.org/)](http://httpwg.org/specs/rfc7540.html), [RFC 7540](https://tools.ietf.org/html/rfc7540)
 * [High Performance Browser Networking (O’Reilly)](https://hpbn.co/)
 * [draft-hamilton-early-deployment-quic-00 - QUIC: A UDP-Based Secure and Reliable Transport for HTTP/2](https://tools.ietf.org/html/draft-hamilton-early-deployment-quic-00)

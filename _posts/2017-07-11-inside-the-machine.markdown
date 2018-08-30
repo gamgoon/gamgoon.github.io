@@ -5,6 +5,7 @@ categories: book
 author: Gamgoon
 cover: https://farm5.staticflickr.com/4234/35726270801_132597a199_k.jpg
 ---
+
 [찰스 펫졸드](http://www.charlespetzold.com/)의 ["코드"](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=53051178)를 아주 감명깊게(?) 읽고, 관련 서적을 한권 더 읽을 생각이었다. 그러다 알라딘 중고책으로 올라온 이 [책](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=899792)을 발견하고 바로 구입!
 
 이 책을 알게된 계기는 [프로그래머 필독서 50](https://www.sangkon.com/2016/02/10/good_books_for_dev/) 이라는 글을 통해서였다. ("코드"는 첫번째로 소개되어있다.)
